@@ -1,0 +1,14 @@
+{
+    "name": "ignisweb/usarps",
+    "description": "WEBT-7: USARPS Championship",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "M7\\USRPS\\": "src"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.3",
+        "doctrine/dbal": "^3.3"
+    }
+}
